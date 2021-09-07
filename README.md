@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yusef, and I'm a [software engineer](https://yusefhabib.com/) transitioning into a Manager role at [iptiQ](https://iptiq.ch), the digital insurance disruptor. I also teach JavaScript and Web Technologies at [Propulsion Academy](https://propulsion.academy/).
+I'm [Yusef](https://yusefhabib.com/), a software engineer transitioning into a Manager role at [iptiQ](https://iptiq.ch), the digital insurance disruptor.Trying to give back, I'm helping aspiring developers with JavaScript and Web Technologies at [Propulsion Academy](https://propulsion.academy/).
 
 I am a huge fan of web technologies and frontend frameworks, like (https://github.com/facebook/react) but I also appreciate semantic HTML and accessibility.
 
