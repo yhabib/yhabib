@@ -4,7 +4,7 @@ I'm Yusef, and I'm a [software engineer](https://yusefhabib.com/) transitioning 
 
 I am a huge fan of web technologies and frontend frameworks, like (https://github.com/facebook/react) but I also appreciate semantic HTML and accessibility.
 
-Recently I've been playing around with [Golang](https://golang.org/), and I'm ❤️ it.
+Recently I've been playing around with [Golang](https://golang.org/), and I'm  ❤️  it.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhabib&layout=compact&theme=radical)
