@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm [Yusef](yusefhabib.com), a software engineer at Dfinity. To give back, I'm helping aspiring developers with JavaScript and web technologies at Constructor Academy.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhabib&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhabib&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yhabib&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhabib&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhabib&theme=radical&utcOffset=2) 
+
+
+<!--
+
 I'm [Yusef](https://yusefhabib.com/), a software engineer transitioning into a Manager role at [iptiQ](https://iptiq.ch), the digital insurance disruptor.Trying to give back, I'm helping aspiring developers with JavaScript and Web Technologies at [Propulsion Academy](https://propulsion.academy/).
 
 I am a huge fan of web technologies and frontend frameworks, like [React](https://github.com/facebook/react) but I also appreciate semantic HTML and accessibility.
@@ -10,9 +21,8 @@ Recently I've been playing around with [Golang](https://golang.org/), and I'm  �
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhabib&layout=compact&theme=radical)
 
 
-<!--
-**yhabib/yhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**yhabib/yhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
