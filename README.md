@@ -3,8 +3,6 @@
 I'm [Yusef](yusefhabib.com), a software engineer at Dfinity. To give back, I'm helping aspiring developers with JavaScript and web technologies at Constructor Academy.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhabib&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhabib&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yhabib&theme=radical) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhabib&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhabib&theme=radical&utcOffset=2) 
 
