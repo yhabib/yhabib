@@ -2,7 +2,7 @@
 
 I'm Yusef, a software engineer at Dfinity. To give back, I help aspiring developers with JavaScript and web technologies at Constructor Academy. 
 
-You can find out more about me at [yusefhabib.com](yusefhabib.com).
+You can find out more about me at [yusefhabib.com](https://yusefhabib.com/).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhabib&theme=radical) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhabib&theme=radical)
