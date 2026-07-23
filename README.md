@@ -4,9 +4,9 @@ I'm Yusef, a software engineer at Dfinity. To give back, I help aspiring develop
 
 You can find out more about me at [yusefhabib.com](https://yusefhabib.com/).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhabib&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhabib&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yhabib&theme=radical&utcOffset=2) 
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+![](./profile-summary-card-output/radical/3-stats.svg)
+![](./profile-summary-card-output/radical/4-productive-time.svg)
 
 
 <!--
