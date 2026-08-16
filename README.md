@@ -9,18 +9,18 @@ governance and sovereign cloud engines through
 
 ## Selected work
 
-- [Governance App](https://github.com/dfinity/governance-app) — a simpler
+- [Governance App](https://nns.icp.net/) — a simpler
   interface for ICP staking, voting, delegation, accounts, and rewards.
-- [NNS dapp](https://github.com/dfinity/nns-dapp) — the established application
+- [NNS dapp](https://nns.ic0.app/) — the established application
   for ICP token management and Internet Computer governance.
 - [Open Cloud](https://opencloud.org/) — a portal for creating and managing
   sovereign cloud engines.
 
 ## Independent projects
 
-- [Claude Manager](https://github.com/yhabib/claude-manager) — a Rust terminal
+- [Claude Manager](https://yhabib.github.io/claude-manager/) — a Rust terminal
   dashboard for monitoring and navigating Claude Code sessions.
-- [Swiss German](https://github.com/yhabib/swiss-german-website) — the public
+- [Swiss German](https://swiss-german.app/) — the public
   website for an iOS app that teaches everyday Zurich German.
 
 I work mainly with TypeScript, React, Svelte, Rust, and Go. I care about clear
