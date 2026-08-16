@@ -13,8 +13,8 @@ governance and sovereign cloud engines through
   interface for ICP staking, voting, delegation, accounts, and rewards.
 - [NNS dapp](https://github.com/dfinity/nns-dapp) — the established application
   for ICP token management and Internet Computer governance.
-- [Open Cloud Control Panel](https://github.com/dfinity/control-panel) — customer
-  flows for creating and managing sovereign cloud engines.
+- [Open Cloud](https://opencloud.org/) — a portal for creating and managing
+  sovereign cloud engines.
 
 ## Independent projects
 
