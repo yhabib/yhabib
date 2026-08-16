@@ -1,36 +1,35 @@
-### Hi there 👋
+# Hi, I am Yusef 👋
 
-I'm Yusef, a software engineer at Dfinity. To give back, I help aspiring developers with JavaScript and web technologies at Constructor Academy. 
+I build web products and tools. I like the messy part where product decisions,
+code, and real users meet.
 
-You can find out more about me at [yusefhabib.com](https://yusefhabib.com/).
+I am a senior software engineer at [DFINITY](https://dfinity.org/). I work on
+governance and sovereign cloud engines through
+[Open Cloud](https://opencloud.org/).
+
+## Selected work
+
+- [Governance App](https://github.com/dfinity/governance-app) — a simpler
+  interface for ICP staking, voting, delegation, accounts, and rewards.
+- [NNS dapp](https://github.com/dfinity/nns-dapp) — the established application
+  for ICP token management and Internet Computer governance.
+- [Open Cloud](https://opencloud.org/) — a portal for creating and managing
+  sovereign cloud engines.
+
+## Independent projects
+
+- [Claude Manager](https://github.com/yhabib/claude-manager) — a Rust terminal
+  dashboard for monitoring and navigating Claude Code sessions.
+- [Swiss German](https://github.com/yhabib/swiss-german-website) — the public
+  website for an iOS app that teaches everyday Zurich German.
+
+I work mainly with TypeScript, React, Svelte, Rust, and Go. I care about clear
+interfaces, accessibility, engineering quality, and tools that remove repeated
+work.
+
+Learn more at [yusefhabib.com](https://yusefhabib.com/), or follow me on
+[X](https://x.com/yhabibf).
 
 ![](./profile-summary-card-output/radical/0-profile-details.svg)
 ![](./profile-summary-card-output/radical/3-stats.svg)
 ![](./profile-summary-card-output/radical/4-productive-time.svg)
-
-
-<!--
-
-I'm [Yusef](https://yusefhabib.com/), a software engineer transitioning into a Manager role at [iptiQ](https://iptiq.ch), the digital insurance disruptor.Trying to give back, I'm helping aspiring developers with JavaScript and Web Technologies at [Propulsion Academy](https://propulsion.academy/).
-
-I am a huge fan of web technologies and frontend frameworks, like [React](https://github.com/facebook/react) but I also appreciate semantic HTML and accessibility.
-
-Recently I've been playing around with [Golang](https://golang.org/), and I'm  ❤️  it.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhabib&layout=compact&theme=radical)
-
-
-
-**yhabib/yhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
