@@ -20,8 +20,7 @@ governance and sovereign cloud engines through
 
 - [Claude Manager](https://yhabib.github.io/claude-manager/) — a Rust terminal
   dashboard for monitoring and navigating Claude Code sessions.
-- [Swiss German](https://swiss-german.app/) — the public
-  website for an iOS app that teaches everyday Zurich German.
+- [Swiss German](https://swiss-german.app/) — an iOS app that teaches everyday Zurich German.
 
 I work mainly with TypeScript, React, Svelte, Rust, and Go. I care about clear
 interfaces, accessibility, engineering quality, and tools that remove repeated
